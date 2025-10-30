@@ -1,0 +1,2 @@
+# equalizerapo
+config.txt
