@@ -1,0 +1,4 @@
+Copy: L=R R=L
+# Copy: L=0.5*L+0.5*R R=0.5*R+0.5*L
+Filter: ON LS Fc 60 Hz Gain 3 dB
+# Preamp: 20 dB
